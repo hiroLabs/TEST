@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A2D3B37F86AC47E1A8CD507493596B48B8DAA866",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C16D1653E0E82C29379A56C4A697A11AC19CCB3C" : 9223372036854775807,
+    "A2D3B37F86AC47E1A8CD507493596B48B8DAA866" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B3043813-AF49-414A-A945-536FDD9F9162",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C16D1653E0E82C29379A56C4A697A11AC19CCB3C" : "",
+    "A2D3B37F86AC47E1A8CD507493596B48B8DAA866" : "github_test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GitHubTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GitHubTest\/GitHubTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hiroLabs\/onthetrip.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A2D3B37F86AC47E1A8CD507493596B48B8DAA866"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hiroLabs\/onthetrip.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C16D1653E0E82C29379A56C4A697A11AC19CCB3C"
+    }
+  ]
+}
